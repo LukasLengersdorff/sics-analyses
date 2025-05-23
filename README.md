@@ -5,6 +5,7 @@ As reported in *Sampling in Constrained Space: Efficient Estimation of Model Evi
 ### Setup
 
 Copy/clone this repository to your computer. Then, you first need to install the necessary packages, for which you can use the script `install_packages.R`. This will install our prototype `sics` package, which is an R interface to SICS-compatible STAN models, as well as a few additional packages needed for our analyses and plots.
+The `sics` package can be found in this repository: https://github.com/LukasLengersdorff/sics-prototype
 
 ### Overview of analyses
 
