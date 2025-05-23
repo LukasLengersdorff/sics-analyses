@@ -9,7 +9,7 @@
 
 # devtools is needed to install from Github
 if (!requireNamespace("devtools", quietly = TRUE)) {
-  install.packages("X")
+  install.packages("devtools")
 }
 
 # SICS
